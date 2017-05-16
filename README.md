@@ -15,3 +15,4 @@ iOS应用中使用的广告轮播图控件，该控件中使用了SDWebImage，�
     NSArray array=.....<br>
     adView.imageUrls=array;
 ## 效果图
+![image](https://github.com/dushukai111/publicResources/blob/master/ADCycleView/ADCycleView.gif)
